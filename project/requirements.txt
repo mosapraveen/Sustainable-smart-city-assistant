@@ -1,0 +1,9 @@
+openai
+flask
+streamlit
+python-dotenv
+scikit-learn
+matplotlib
+pandas
+requests
+pinecone-client
